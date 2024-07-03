@@ -66,16 +66,16 @@
 <br />
 
 <p align="center">
-    <a href="https://x.com/shaharul_m74117" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/shaharul-islam-591a691b7" target="blank">
+    <a href="https://www.linkedin.com/in/rabby-hasan-saref/?originalSubdomain=bd" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/shaharul.islam.79274" target="blank">
+    <a href="https://www.facebook.com/rabbyhasansaref.cse/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/shaharulislam25" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
 </p> <br/>
