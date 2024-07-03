@@ -83,7 +83,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 
-![Md Shaharul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=highcontrast)
+![Rabby Hasan Saref GitHub stats](https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdShaharulIslam&theme=highcontrast)](https://git.io/streak-stats)
 
