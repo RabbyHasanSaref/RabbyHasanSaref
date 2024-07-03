@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+To+Shaharul+Islam+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!)%5D()](https://git.io/typing-svg))
 
 <!--![Rabby Hasan Saref Banner- 1](https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
@@ -9,7 +9,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
-<h1 align="center">Hi 👋, I'm Shaharul Islam</h1>
+<h1 align="center">Hi 👋, I'm Rabby Hasan Saref</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
