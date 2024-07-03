@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!)%5D()](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!](https://git.io/typing-svg))
 
 <!--![Rabby Hasan Saref Banner- 1](https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
