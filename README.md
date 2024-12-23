@@ -26,6 +26,18 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="bootstrap" width="40" height="40"/> 
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
