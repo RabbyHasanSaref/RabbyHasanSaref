@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
-<!--![Rabby Hasan Saref Banner- 1](https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
   <img src="https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1" alt="Md Shaharul Islam Banner" style="width: 100%;">
  
@@ -14,8 +13,6 @@
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Shaharulislam" /> </p>
-<!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
-
 </p>
 
 ## :computer: Tools and Technologies that I know
@@ -78,17 +75,17 @@
 <br />
 
 <p align="center">
-    <a href="" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdShaharulIslam" height="30" width="40" />
+      <a href="https://www.facebook.com/rabbyhasansaref.cse/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" />
+    </a>
+  <a href="" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/rabby-hasan-saref/?originalSubdomain=bd" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MdShaharulIslam" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/rabbyhasansaref.cse/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MdShaharulIslam" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" />
     </a>
     <a href="" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MdShaharulIslam" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" />
     </a>
 </p> <br/>
 
