@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalamu+Alaikum++%F0%9F%A4%9D;Welcome+To+Rabby+Hasan+Saref+Github+Profile+;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
 <div style="position: relative; width: 100%; text-align: center; color: white;">
-  <img src="https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1" alt="Md Shaharul Islam Banner" style="width: 100%;">
+  <img src="https://github.com/RabbyHasanSaref/Saref/blob/main/banner-1" alt="" style="width: 100%;">
  
 </div>
 
@@ -12,7 +12,7 @@
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Shaharulislam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </p>
 
 ## :computer: Tools and Technologies that I know
