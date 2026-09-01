@@ -1,6 +1,7 @@
 # Hi, I'm Rabby Hasan Saref 👋
 
-🌱 **Junior Software Engineer | 🐘 JavaScript & PHP Developer | 💻 Web & Backend Enthusiast | 🚀 Building Scalable Applications | 🎓 Lifelong Learner**
+🌱 **Software Developer | 💻 Full-Stack & Backend Enthusiast | 🐘 PHP & Laravel Developer | 🟨 JavaScript & Node.js Developer | 🚀 Building Scalable Web Applications | 🎓 CSE Student & Lifelong Learner**
+
 
 ---
 
