@@ -5,17 +5,28 @@
 ---
 
 ## 🧑‍💻 About Me
-Experienced **Junior Software Engineer** with 3+ years of expertise in building scalable, high-performance systems using **JavaScript** and **PHP**. I specialize in backend development, system architecture, and API integrations, with a focus on the **Web & Backend Enthusiast** domain.
 
-Currently:
-- 💼 Junior a software development team at **Tmss Ict Ltd**.
-- 🎓 Serving as **Student** at **Northern University Bangladesh** — mentoring the next generation of software engineers.
-- 🔭 Working on **E-commerce**, **ERP**, and high-availability backend systems.
-- 🌱 Learning **SQA, Docker, and Iot** to sharpen my DevOps & analytics game.
+I'm a **Software Developer** with **3+ years of experience** building scalable, high-performance web applications and business solutions using **JavaScript, PHP, and modern web technologies**. I specialize in **backend development, API integration, ERP systems, and scalable web application architecture**.
 
-💬 Ask me about: **Node Js, FastAPI, Laravel, System Design, API Architecture**  
-📫 Reach me: [Email](mailto:rabbyhasansaref@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rabby-hasan-saref/)  
-☕ Fun fact: *My code runs better after coffee.*
+### 🚀 Currently
+
+* 💼 Working as a **Software Developer at TMSS ICT Limited**, contributing to real-world ERP, e-commerce, and business management solutions.
+* 🎓 Pursuing a **B.Sc. in Computer Science & Engineering (CSE)** at **Northern University Bangladesh (NUB)**.
+* 🔭 Working on **E-commerce, ERP, REST APIs, and scalable backend systems**.
+* 🌱 Currently exploring **SQA, Docker, IoT, and modern software engineering practices** to expand my technical expertise.
+
+### 💬 Ask Me About
+
+**Node.js · FastAPI · Laravel · PHP · JavaScript · Vue.js · REST API · System Design · API Architecture · MySQL**
+
+### 📫 Reach Me
+
+[Email](mailto:rabbyhasansaref@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rabby-hasan-saref/)
+
+### ☕ Fun Fact
+
+> *“My code runs better after coffee.”* ☕
+
 
 ---
 
