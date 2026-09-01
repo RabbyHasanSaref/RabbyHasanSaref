@@ -36,14 +36,14 @@ Currently:
 ---
 
 ## 📜 Career Highlights
-- **Junior Software Engineer @ Tmss Ict Ltd**  
-  Driving innovation in ERP, designing fault-tolerant backend systems, and leading a high-performing dev team.
-- **Student @ NUB**  
-  Bridging the gap between academic theory and real-world software engineering practices.
-- **3+ Years in Software Development**  
-  Extensive experience in **Web & Backend Enthusiast, and Scalable Web Applications**.
-- **Mentorship & Leadership**  
-  Guiding junior developers towards writing cleaner, efficient, and production-ready code.
+- **Software Developer at TMSS ICT Limited —**  
+  Experienced in developing web-based ERP and business management systems, with hands-on expertise in backend and frontend development, database management, API integration, and system optimization.
+- **CSE Student at Northern University Bangladesh (NUB) —**  
+  Pursuing a degree in Computer Science & Engineering while bridging the gap between academic knowledge and real-world software engineering practices.
+- **3+ Years of Software Development Experience —**  
+  Passionate about **Web Development, Backend Engineering, and Building Scalable Web Applications.**.
+- **Mentorship & Leadership —**  
+  Supporting and guiding junior developers to write clean, efficient, maintainable, and production-ready code.
 
 ---
 
