@@ -53,12 +53,13 @@ Currently:
 ---
 
 ## 🧠 Developer Philosophy
-> *"Clean code isn’t just for machines — it’s a love letter to the next developer who will work on it."*
+> *"Clean code isn’t just for machines — it’s a commitment to the next developer who will work with it."*
 
 I believe in:
-- Writing **readable and maintainable code**
-- Automating repetitive tasks
-- Prioritizing security & scalability
-- Continuous learning and sharing knowledge
+- **Writing Clean & Maintainable Code —** Creating code that is readable, well-structured, and easy to maintain.
+- **Automation —** Automating repetitive tasks to improve efficiency, productivity, and reduce human error.
+- **Security & Scalability —** Building applications with security, performance, reliability, and scalability in mind from the beginning.
+- **Continuous Learning —** Continuously exploring new technologies, tools, and best practices to improve my skills.
+- **Knowledge Sharing —** Sharing knowledge and experiences while helping fellow and junior developers grow.
 
 ---
