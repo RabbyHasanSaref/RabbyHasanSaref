@@ -20,8 +20,7 @@ Currently:
 ---
 
 ## 📊 GitHub Stats
-![Rabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbyHasanSaref&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbyHasanSaref&layout=compact&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RabbyHasanSaref&show_icons=true&theme=radical" alt="Rabby's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbyHasanSaref&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
