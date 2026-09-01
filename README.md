@@ -48,7 +48,7 @@ Currently:
 ---
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RabbyHasanSaref&theme=react-dark&hide_border=true)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabbyHasanSaref&theme=react-dark&hide_border=true" alt="Rabby Hasan Saref's GitHub Activity Graph" /> </p>
 
 ---
 
