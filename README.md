@@ -14,7 +14,7 @@ I'm a **Software Developer** with **3+ years of experience** building scalable, 
 * 💼 Working as a **Software Developer at TMSS ICT Limited**, contributing to real-world ERP, e-commerce, and business management solutions.
 * 🎓 Pursuing a **B.Sc. in Computer Science & Engineering (CSE)** at **Northern University Bangladesh (NUB)**.
 * 🔭 Working on **E-commerce, ERP, REST APIs, and scalable backend systems**.
-* 🌱 Currently exploring **SQA, Docker, IoT, and modern software engineering practices** to expand my technical expertise.
+* 🌱 Currently exploring **SQA, Docker, and modern software engineering practices** to expand my technical expertise.
 
 ### 💬 Ask Me About
 
